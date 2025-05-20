@@ -4,7 +4,7 @@ title: "Model Compression for Efficient AI"
 date: 2025-04-28
 tags: [deep learning, model compression, edge computing]
 categories: [blogposts]
-author: "Your Name"
+author: "Yeeun Kim"
 ---
 
 ## 1. Introduction
