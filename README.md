@@ -1,4 +1,4 @@
-# LAU-Net
+# Do Pruning Metrics Generalize? A Cross-Architecture Study on CNNs and Transformers
 This repository contains the implementation of LAU-Net, a novel approach for speech enhancement in extremely noisy environments. This study was submitted to Interspeech 2025.
 
 # Requirements
